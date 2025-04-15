@@ -1,0 +1,11 @@
+{
+    "name": "My PWA App",
+    "short_name": "PWA App",
+    "description": "A sample PWA built with Vite and Tailwind CSS",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+   
+  }
+  
